@@ -14,7 +14,7 @@ Android Studio is notorious for start up issues with projects. It is encouraged 
     ```
 3. The Gradle JDK can be updated by navigating into Android Studio > Preferences > Build, Execution, Deployment > Build Tools > Gradle > under general settings > Select Gradle JDK
 4. Select from the list Amazon Corretto version 11.0.15 (This may require download)
-5. Run project on any emulator supporting API 26
+5. Run project on any emulator supporting API 26 or higher
 
 ### Devices Used for testing
 It is encouranged you project is reviewed on two devices, consider testing on a Pixel 2 device or any other device mentioned below.

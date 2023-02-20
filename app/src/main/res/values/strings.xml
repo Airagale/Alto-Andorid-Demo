@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Alto Demo</string>
+    <string name="alto">Alto</string>
+
+    <string name="eta_uncalculated">en route…</string>
+    <string name="eta_routing">routing…</string>
+
+    <string name="your_trip">Your Trip</string>
+    <string name="your_trip_estimation">Estimated arrival time at %s</string>
+    <string name="your_trip_estimated_fare">Estimated Fare:</string>
+    <string name="your_trip_passengers">Passengers:</string>
+    <string name="your_trip_elements_format">%s - %s</string>
+    <string name="your_trip_payment">Payment:</string>
+    <string name="your_trip_cancel">CANCEL TRIP</string>
+    <string name="cd_edit_notes">edit drop off notes</string>
+    <string name="your_driver">Your Driver</string>
+    <string name="your_driver_contact">CONTACT DRIVER</string>
+    <string name="your_trip_add_notes">Add a drop off note</string>
+
+    <string name="your_vehicle">Your Vehicle</string>
+    <string name="your_vehicle_make_model">Make / Model</string>
+    <string name="your_vehicle_color">Color</string>
+    <string name="your_vehicle_identified">IDENTIFY VEHICLE</string>
+
+    <string name="your_drop_off">@string/your_trip</string>
+    <string name="your_drop_off_selected_vibe">Current Vibe</string>
+    <string name="your_drop_off_change_vibe">CHANGE VIBE</string>
+
+    <string name="change_vibe_title">Change Vibe</string>
+    <string name="cd_navigate_back">Navigate back</string>
+
+</resources>
